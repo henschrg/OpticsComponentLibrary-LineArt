@@ -1,11 +1,11 @@
 # ComponentLibrary-LineArt
 Clear and neutral vector graphics library for illustration of optics experiments.
 
-![Demo illustration](./demo/g25337.png)
+![Demo illustration](./demo/g25339.png)
 
 # Usage
-Single svg file with all images for convenient 'copy and paste', recommended to be used with [Inkscape](https://inkscape.org/).
-For using greek letter annotations, the font [CMU Sans Serif](https://fontlibrary.org/index.php?pretty=%2Fen%2Ffont%2Fcmu-sans-serif) is required.
+* Single svg file with all images for convenient 'copy and paste', recommended to be used with [Inkscape](https://inkscape.org/).<br>
+* Annotations and symbol palette set up with the font [CMU Sans Serif](https://fontlibrary.org/index.php?pretty=%2Fen%2Ffont%2Fcmu-sans-serif).
 
 # License
 The ComponentLibrary-LineArt is a derivative of [gwoptics ComponentLibrary](http://www.gwoptics.org/ComponentLibrary/) by Alexander Franzen, used under the [Creative Commons Attribution-NonCommercial 3.0 Unported License](https://creativecommons.org/licenses/by-nc/3.0/).
