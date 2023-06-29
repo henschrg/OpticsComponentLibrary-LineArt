@@ -1,7 +1,7 @@
 # ComponentLibrary-LineArt
 Clear and neutral vector graphics library for illustrations of optics experiments (e.g. in laser physics).
 
-![Demo illustration](./demo/g25339.png)
+<img src="./demo/g25339.png" width=80% height=50%>
 
 # Usage
 * Single svg file with all images for convenient 'copy and paste', recommended to be used with [Inkscape](https://inkscape.org/).<br>
