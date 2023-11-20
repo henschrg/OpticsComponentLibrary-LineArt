@@ -26,9 +26,9 @@
      inkscape:pagecheckerboard="0"
      inkscape:document-units="mm"
      showgrid="false"
-     inkscape:zoom="8"
-     inkscape:cx="582.3125"
-     inkscape:cy="70.0625"
+     inkscape:zoom="2"
+     inkscape:cx="507.25"
+     inkscape:cy="618.25"
      inkscape:window-width="2560"
      inkscape:window-height="1377"
      inkscape:window-x="1912"
@@ -48,6 +48,20 @@
      inkscape:snap-to-guides="false" />
   <defs
      id="defs7094">
+    <marker
+       style="overflow:visible"
+       id="TriangleOutM"
+       refX="0.0"
+       refY="0.0"
+       orient="auto"
+       inkscape:stockid="TriangleOutM"
+       inkscape:isstock="true">
+      <path
+         transform="scale(0.4)"
+         style="fill-rule:evenodd;fill:context-stroke;stroke:context-stroke;stroke-width:1.0pt"
+         d="M 5.77,0.0 L -2.88,5.0 L -2.88,-5.0 L 5.77,0.0 z "
+         id="path5935" />
+    </marker>
     <pattern
        inkscape:collect="always"
        xlink:href="#pattern78162"
@@ -9042,6 +9056,32 @@
          offset="0.6854"
          style="stop-color:#BA0000" />
     </radialGradient>
+    <linearGradient
+       id="linearGradient3345"
+       gradientUnits="userSpaceOnUse"
+       x1="44.003899"
+       y1="105.2021"
+       x2="72.350098"
+       y2="76.856003"
+       gradientTransform="matrix(0.8,0,0,0.8,-34.8284,-61.1108)">
+      <stop
+         offset="0"
+         style="stop-color:#FFFFFF"
+         id="stop18825-1-9-9" />
+      <stop
+         offset="1"
+         style="stop-color:#89A4B6"
+         id="stop18827-5-2-7" />
+      <a:midPointStop
+         offset="0"
+         style="stop-color:#FFFFFF" />
+      <a:midPointStop
+         offset="0.5"
+         style="stop-color:#FFFFFF" />
+      <a:midPointStop
+         offset="1"
+         style="stop-color:#89A4B6" />
+    </linearGradient>
   </defs>
   <g
      inkscape:label="Ebene 1"
@@ -9904,7 +9944,7 @@
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.96761px;line-height:1.25;font-family:Arial;-inkscape-font-specification:Arial;stroke-width:0.185476">faraday isolators/rotator</tspan></text>
     <g
        id="g127550"
-       transform="translate(1.6842855,-2.6226805)">
+       transform="translate(1.1281663,-2.6226805)">
       <g
          transform="matrix(0.1159393,0,0,0.1159393,-195.81694,-164.08966)"
          style="display:inline;fill:none;fill-opacity:1;stroke-width:1.99971;stroke-miterlimit:4;stroke-dasharray:none;enable-background:new"
@@ -11086,7 +11126,7 @@
          d="m 65.144351,-145.9523 a 4,4 0 0 1 -0.84552,-2.32305 l 3.997563,-0.1396 z" />
     </g>
     <path
-       style="fill:none;stroke:#000000;stroke-width:0.234536;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#TriangleOutS)"
+       style="fill:none;stroke:#000000;stroke-width:0.23453603;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#TriangleOutS)"
        id="path10302-38-1-9"
        transform="matrix(-0.92726481,0.37440616,-0.1750678,-0.98455638,0,0)"
        sodipodi:type="arc"
@@ -13404,6 +13444,18 @@
            x="219.03822"
            y="-141.61617" />
       </g>
+    </g>
+    <g
+       id="g8181">
+      <path
+         id="rect3167-7-2-2-3"
+         style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.231845;stroke-miterlimit:4;stroke-dasharray:none"
+         d="m 68.012209,-78.908249 h 6.908157 v 4.206032 h -6.908157 z"
+         sodipodi:nodetypes="ccccc" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.232;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#TriangleOutM)"
+         d="m 68.978862,-76.805233 h 4.431771"
+         id="path5690" />
     </g>
   </g>
 </svg>
